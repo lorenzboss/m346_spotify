@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'lorenz-spotifyapi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B5F0A8B431534C7983D49EF32ACA70D9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD11DF36C7E543ABBC58A5125CC31CC6 }}
           package: .
